@@ -1,0 +1,118 @@
+Jae Jee
+
+ArtistID = 1	, ArtistName = 	Acconci	, ArtID = 1038	, ArtTitle = Spring Flowers	, Appraised Value = 800
+ArtistID = 1	, ArtistName = 	Acconci	, ArtID = 1050	, ArtTitle = Cattle Ranch	, Appraised Value = 10000
+ArtistID = 1	, ArtistName = 	Acconci	, ArtID = 1103	, ArtTitle = Trail End	, Appraised Value = 8000
+ArtistID = 2	, ArtistName = 	Budd	, ArtID = 1042	, ArtTitle = Coffee on the Trail	, Appraised Value = 7544
+ArtistID = 2	, ArtistName = 	Budd	, ArtID = 1086	, ArtTitle = Untitled (desert landscape)	, Appraised Value = 18000
+ArtistID = 2	, ArtistName = 	Budd	, ArtID = 1101	, ArtTitle = The Red Door	, Appraised Value = 10000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1010	, ArtTitle = Untitled (land with adobe)	, Appraised Value = 800
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1013	, ArtTitle = Superstitions	, Appraised Value = 78000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1019	, ArtTitle = The White Heart	, Appraised Value = 9300
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1021	, ArtTitle = Bead Wall	, Appraised Value = 14000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1022	, ArtTitle = The Cowboy	, Appraised Value = 4200
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1025	, ArtTitle = Profile of a Woman	, Appraised Value = 625
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1034	, ArtTitle = Beaver Pole Jumble	, Appraised Value = 28000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1058	, ArtTitle = The Gathering	, Appraised Value = 250
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1063	, ArtTitle = Asleep in the Garden	, Appraised Value = 110000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1080	, ArtTitle = The Dust Behind	, Appraised Value = 18000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1095	, ArtTitle = The Spirit	, Appraised Value = 20000
+ArtistID = 3	, ArtistName = 	Carpenter	, ArtID = 1104	, ArtTitle = Untitled 	, Appraised Value = 1800
+ArtistID = 4	, ArtistName = 	Dill	, ArtID = 1070	, ArtTitle = Beginnings	, Appraised Value = 27500
+ArtistID = 4	, ArtistName = 	Dill	, ArtID = 1079	, ArtTitle = Carrying the Mail	, Appraised Value = 8000
+ArtistID = 4	, ArtistName = 	Dill	, ArtID = 1111	, ArtTitle = Untitled (man and crucifix)	, Appraised Value = 3200
+ArtistID = 5	, ArtistName = 	Edwards	, ArtID = 1020	, ArtTitle = Untitled (Man holding coat)	, Appraised Value = 3000
+ArtistID = 5	, ArtistName = 	Edwards	, ArtID = 1036	, ArtTitle = Blackhawk	, Appraised Value = 25500
+ArtistID = 5	, ArtistName = 	Edwards	, ArtID = 1093	, ArtTitle = Antelopes 	, Appraised Value = 12500
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1004	, ArtTitle = Seeking Shelter	, Appraised Value = 52000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1012	, ArtTitle = Man on Horseback	, Appraised Value = 8000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1016	, ArtTitle = Untitled	, Appraised Value = 6000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1017	, ArtTitle = Brittlecone	, Appraised Value = 1300
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1033	, ArtTitle = Untitled (Woman abstract)	, Appraised Value = 2500
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1053	, ArtTitle = Blue Eyed Indian	, Appraised Value = 40000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1056	, ArtTitle = Cavalry Is Coming	, Appraised Value = 1900
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1066	, ArtTitle = Untitled (still life)	, Appraised Value = 19500
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1075	, ArtTitle = Western Boots and Spurs	, Appraised Value = 6000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1077	, ArtTitle = Bull Riding	, Appraised Value = 5200
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1083	, ArtTitle = Untitled	, Appraised Value = 2500
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1085	, ArtTitle = Traces	, Appraised Value = 20000
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1097	, ArtTitle = Untitled (Sea)	, Appraised Value = 2800
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1108	, ArtTitle = Untitled Mural	, Appraised Value = 400
+ArtistID = 6	, ArtistName = 	Fleming	, ArtID = 1110	, ArtTitle = Three Sisters	, Appraised Value = 6500
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1024	, ArtTitle = Spirit and Nature	, Appraised Value = 592
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1026	, ArtTitle = Untitled (couple)	, Appraised Value = 4000
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1032	, ArtTitle = Rising Sun	, Appraised Value = 2000
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1037	, ArtTitle = Floating World	, Appraised Value = 2350
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1049	, ArtTitle = Buttercup with Red Lip	, Appraised Value = 400
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1054	, ArtTitle = Snake Charmer	, Appraised Value = 4500
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1061	, ArtTitle = Untitled Mural	, Appraised Value = 3520
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1091	, ArtTitle = Stone Palette	, Appraised Value = 11500
+ArtistID = 7	, ArtistName = 	Garber	, ArtID = 1114	, ArtTitle = Storytelling at the Campfire	, Appraised Value = 18000
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1018	, ArtTitle = Mountain Scene	, Appraised Value = 2500
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1057	, ArtTitle = Untitled	, Appraised Value = 4500
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1060	, ArtTitle = Story Sticks	, Appraised Value = 650
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1064	, ArtTitle = Spirit Columns	, Appraised Value = 7000
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1067	, ArtTitle = Owl in Flight	, Appraised Value = 7000
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1068	, ArtTitle = Moonlight	, Appraised Value = 9750
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1071	, ArtTitle = Ride the Rapids	, Appraised Value = 300
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1074	, ArtTitle = Storm on the Rise	, Appraised Value = 8000
+ArtistID = 8	, ArtistName = 	Higgins	, ArtID = 1109	, ArtTitle = Friends	, Appraised Value = 16000
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1001	, ArtTitle = Red Rock Mountain	, Appraised Value = 18000
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1002	, ArtTitle = Offerings 	, Appraised Value = 10000
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1044	, ArtTitle = Mexican Fiesta	, Appraised Value = 14000
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1055	, ArtTitle = Starlit Evening	, Appraised Value = 9500
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1069	, ArtTitle = Renaissance	, Appraised Value = 5500
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1084	, ArtTitle = Crossing the Platt River	, Appraised Value = 2200
+ArtistID = 9	, ArtistName = 	Ibe	, ArtID = 1098	, ArtTitle = Sweet Project	, Appraised Value = 592
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1028	, ArtTitle = Tired Cowboy	, Appraised Value = 4700
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1047	, ArtTitle = Medicine Man	, Appraised Value = 2500
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1048	, ArtTitle = Comfy Chair	, Appraised Value = 800
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1072	, ArtTitle = Funnel	, Appraised Value = 4500
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1089	, ArtTitle = Life Lessons	, Appraised Value = 4125
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1096	, ArtTitle = Ceremonial Sticks	, Appraised Value = 15000
+ArtistID = 10	, ArtistName = 	Kollasch	, ArtID = 1113	, ArtTitle = Shadow House	, Appraised Value = 5500
+ArtistID = 11	, ArtistName = 	Lerman	, ArtID = 1090	, ArtTitle = Off the Grid	, Appraised Value = 8000
+ArtistID = 11	, ArtistName = 	Lerman	, ArtID = 1115	, ArtTitle = Starry Night	, Appraised Value = 8500
+ArtistID = 12	, ArtistName = 	Metz	, ArtID = 1003	, ArtTitle = Spring Flowers	, Appraised Value = 2400
+ArtistID = 12	, ArtistName = 	Metz	, ArtID = 1008	, ArtTitle = End of the Path	, Appraised Value = 1900
+ArtistID = 13	, ArtistName = 	Novarre	, ArtID = 1081	, ArtTitle = Coming Under Fire	, Appraised Value = 650
+ArtistID = 13	, ArtistName = 	Novarre	, ArtID = 1112	, ArtTitle = Dark Canyon	, Appraised Value = 8000
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1006	, ArtTitle = House Remembered	, Appraised Value = 700
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1009	, ArtTitle = Amen	, Appraised Value = 3000
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1014	, ArtTitle = Plenty	, Appraised Value = 500
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1015	, ArtTitle = Punch	, Appraised Value = 10000
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1030	, ArtTitle = Ash Bench	, Appraised Value = 13000
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1039	, ArtTitle = Treachery	, Appraised Value = 20000
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1046	, ArtTitle = Immediate Gratification	, Appraised Value = 1500
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1076	, ArtTitle = Ride the Bronco	, Appraised Value = 1500
+ArtistID = 14	, ArtistName = 	Ortega	, ArtID = 1102	, ArtTitle = Crying Hats	, Appraised Value = 10000
+ArtistID = 15	, ArtistName = 	Parker	, ArtID = 1023	, ArtTitle = Shooting the Rapids	, Appraised Value = 1300
+ArtistID = 15	, ArtistName = 	Parker	, ArtID = 1031	, ArtTitle = Inside/Out	, Appraised Value = 3500
+ArtistID = 15	, ArtistName = 	Parker	, ArtID = 1043	, ArtTitle = Creosote Bushes	, Appraised Value = 18000
+ArtistID = 15	, ArtistName = 	Parker	, ArtID = 1073	, ArtTitle = Dancing in the Light	, Appraised Value = 4000
+ArtistID = 15	, ArtistName = 	Parker	, ArtID = 1105	, ArtTitle = Meteor Show	, Appraised Value = 10000
+ArtistID = 16	, ArtistName = 	Penn	, ArtID = 1027	, ArtTitle = Mountain Climber	, Appraised Value = 4700
+ArtistID = 16	, ArtistName = 	Penn	, ArtID = 1052	, ArtTitle = American Rodeo	, Appraised Value = 3500
+ArtistID = 16	, ArtistName = 	Penn	, ArtID = 1078	, ArtTitle = Chuckwagon	, Appraised Value = 32000
+ArtistID = 16	, ArtistName = 	Penn	, ArtID = 1087	, ArtTitle = Three Woman	, Appraised Value = 20000
+ArtistID = 16	, ArtistName = 	Penn	, ArtID = 1107	, ArtTitle = Striking It Rich	, Appraised Value = 1750
+ArtistID = 17	, ArtistName = 	Pierobon	, ArtID = 1007	, ArtTitle = Homage to the Ancestors	, Appraised Value = 1200
+ArtistID = 17	, ArtistName = 	Pierobon	, ArtID = 1035	, ArtTitle = Nature/Nurture	, Appraised Value = 1300
+ArtistID = 17	, ArtistName = 	Pierobon	, ArtID = 1041	, ArtTitle = Night Version	, Appraised Value = 3800
+ArtistID = 17	, ArtistName = 	Pierobon	, ArtID = 1051	, ArtTitle = Night Version	, Appraised Value = 7000
+ArtistID = 17	, ArtistName = 	Pierobon	, ArtID = 1059	, ArtTitle = Dwelling	, Appraised Value = 16000
+ArtistID = 18	, ArtistName = 	Prinzen	, ArtID = 1005	, ArtTitle = The Hang	, Appraised Value = 8000
+ArtistID = 18	, ArtistName = 	Prinzen	, ArtID = 1040	, ArtTitle = Night on the Praire	, Appraised Value = 1300
+ArtistID = 18	, ArtistName = 	Prinzen	, ArtID = 1082	, ArtTitle = Spring Flowers	, Appraised Value = 20000
+ArtistID = 18	, ArtistName = 	Prinzen	, ArtID = 1088	, ArtTitle = Lessons	, Appraised Value = 3700
+ArtistID = 18	, ArtistName = 	Prinzen	, ArtID = 1094	, ArtTitle = Life Is Sweet	, Appraised Value = 25000
+ArtistID = 19	, ArtistName = 	Quiroz	, ArtID = 1011	, ArtTitle = Eve	, Appraised Value = 975
+ArtistID = 19	, ArtistName = 	Quiroz	, ArtID = 1045	, ArtTitle = Leaf Patterns	, Appraised Value = 2100
+ArtistID = 19	, ArtistName = 	Quiroz	, ArtID = 1065	, ArtTitle = Moonlite 	, Appraised Value = 1300
+ArtistID = 19	, ArtistName = 	Quiroz	, ArtID = 1106	, ArtTitle = Horse Corral	, Appraised Value = 12500
+ArtistID = 19	, ArtistName = 	Quiroz	, ArtID = 1116	, ArtTitle = Apache Warrior	, Appraised Value = 23000
+ArtistID = 20	, ArtistName = 	Rath	, ArtID = 1029	, ArtTitle = Horseshoe Falls	, Appraised Value = 15000
+ArtistID = 20	, ArtistName = 	Rath	, ArtID = 1062	, ArtTitle = Cowboy and Saddle	, Appraised Value = 18000
+ArtistID = 20	, ArtistName = 	Rath	, ArtID = 1092	, ArtTitle = Dressing Up	, Appraised Value = 1300
+ArtistID = 20	, ArtistName = 	Rath	, ArtID = 1099	, ArtTitle = Watch That Rattler	, Appraised Value = 900
+ArtistID = 20	, ArtistName = 	Rath	, ArtID = 1100	, ArtTitle = Hungry Cowboys	, Appraised Value = 750
