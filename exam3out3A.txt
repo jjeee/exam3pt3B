@@ -1,0 +1,23 @@
+Jae Jee
+
+
+   20 	Rath          ,     0 ,       0.00
+   19 	Quiroz        ,     0 ,       0.00
+   18 	Prinzen       ,     0 ,       0.00
+   17 	Pierobon      ,     0 ,       0.00
+   16 	Penn          ,     0 ,       0.00
+   15 	Parker        ,     0 ,       0.00
+   14 	Ortega        ,     0 ,       0.00
+   13 	Novarre       ,     0 ,       0.00
+   12 	Metz          ,     0 ,       0.00
+   11 	Lerman        ,     0 ,       0.00
+   10 	Kollasch      ,     0 ,       0.00
+    9 	Ibe           ,     0 ,       0.00
+    8 	Higgins       ,     0 ,       0.00
+    7 	Garber        ,     0 ,       0.00
+    6 	Fleming       ,     0 ,       0.00
+    5 	Edwards       ,     0 ,       0.00
+    4 	Dill          ,     0 ,       0.00
+    3 	Carpenter     ,     0 ,       0.00
+    2 	Budd          ,     0 ,       0.00
+    1 	Acconci       ,     0 ,       0.00
