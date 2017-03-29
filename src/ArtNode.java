@@ -1,10 +1,12 @@
+//Jae Jee
+//CIS211 401
 public class ArtNode extends Art{
     static ArtNode previous,next;
 
-    public ArtNode(int artID, String artTitle, int artistID, int value) {
+    public ArtNode(int artID, String artTitle, int artistID, int value, ArtNode previous, ArtNode next) {
         super(artID, artTitle, artistID, value);
-        previous=null;
-        next=null;
+        this.previous=previous;
+        this.next=next;
     }
 
     public static ArtNode getPrevious() {

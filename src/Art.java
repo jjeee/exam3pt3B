@@ -1,3 +1,5 @@
+//Jae Jee
+//CIS211 401
 public class Art {
     private int artID;
     private int value;

@@ -1,12 +1,12 @@
+//Jae Jee
+//CIS211 401
 public class ArtistNode extends Artist implements Comparable<ArtistNode>{
-    static ArtNode firstNode,lastNode;
+    static ArtNode firstNode=ArtNode.next,lastNode=ArtNode.previous;
     static int totalEntries;
     static double totalValue;
 
-    public ArtistNode(int iD, String name) {
-        super(iD, name);
-        firstNode=null;
-        lastNode=null;
+    public ArtistNode(int artistID, String artistName) {
+        super(artistID, artistName);
         totalEntries=0;
         totalValue=0;
     }

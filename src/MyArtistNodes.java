@@ -1,3 +1,5 @@
+//Jae Jee
+//CIS211 401
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -5,7 +7,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class MyArtistNodes {
-    ArrayList<ArtistNode> myArtistNodes=new ArrayList<>();
+    public ArrayList<ArtistNode> myArtistNodes=new ArrayList<>();
     Scanner input;
 
     public MyArtistNodes(String inputFile) throws IOException{

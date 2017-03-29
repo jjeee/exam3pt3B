@@ -1,3 +1,5 @@
+//Jae Jee
+//CIS211 401
 public class Artist {
     private int artistID;
     private String artistName;
