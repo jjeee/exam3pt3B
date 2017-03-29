@@ -39,10 +39,9 @@ public class MyArtistNodes {
     public int indexOfArtistID(int artistID){
         int index=-1;
 
-        for (Artist a:myArtistNodes){
+        for (ArtistNode a:myArtistNodes){
             if (artistID==a.getArtistID()){
                 index=myArtistNodes.indexOf(a);
-                System.out.println(index);
                 break;
             }
         }if (index==-1){

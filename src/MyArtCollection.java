@@ -18,7 +18,7 @@ public class MyArtCollection {
             int artistID=input.nextInt();
             int value=input.nextInt();
 
-            int index=artists.indexOfArtistID(artistID);
+            artists.indexOfArtistID(artistID);
 
         }
     }
