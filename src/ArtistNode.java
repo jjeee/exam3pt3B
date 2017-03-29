@@ -41,4 +41,12 @@ public class ArtistNode extends Artist implements Comparable<ArtistNode>{
         else
             return 0;
     }
+
+    public void printList(){
+
+    }
+
+    public void append(){
+
+    }
 }

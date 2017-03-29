@@ -7,8 +7,8 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class MyArtistNodes {
-    public ArrayList<ArtistNode> myArtistNodes=new ArrayList<>();
-    Scanner input;
+    static public ArrayList<ArtistNode> myArtistNodes=new ArrayList<>();
+    static Scanner input;
 
     public MyArtistNodes(String inputFile) throws IOException{
         input=new Scanner(new File(inputFile));
@@ -34,5 +34,21 @@ public class MyArtistNodes {
 
     public void print(){
         myArtistNodes.forEach(System.out::println);
+    }
+
+    public int indexOfArtistID(int artistID){
+        int index=-1;
+
+        for (Artist a:myArtistNodes){
+            if (artistID==a.getArtistID()){
+                index=myArtistNodes.indexOf(a);
+                System.out.println(index);
+                break;
+            }
+        }if (index==-1){
+            System.out.println("Artist not found");
+        }
+
+        return index;
     }
 }
